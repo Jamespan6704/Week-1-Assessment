@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = 'Git is a Versions Control System. Allows individuals and teams to track changes to code projects. Prevents bugs and loss of progress. Allows you to view the long history of a project in snapshots.'
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = 'Code hosting platform for version control and collaboration'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+let gitInitDefinition = 'Initializes a local repository in the open folder'
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = 'used to point to an existing repo and make a clone or copy of that repo in a new directory'
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+let gitStatusDefinition = 'Tell me about this repo'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,8 @@
 */
 
 //CODE HERE
+let gitAddDefinition = 'Adds files allowing them to be tracked/saved'
+let gitAddCode = 'git add .'
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,6 +71,8 @@
 */
 
 //CODE HERE
+let gitCommitDefinition = 'Creates a snapshot of the files that you are tracking'
+let gitCommitCode = 'git commit -m "initialcommit"'
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,3 +82,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = 'uplods your local repository content to a remote repository'
